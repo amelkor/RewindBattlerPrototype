@@ -7,6 +7,9 @@ using UnityEngine.UI;
 
 namespace Game.Gameplay.Input
 {
+    /// <note>
+    /// For debugging
+    /// </note>
     public class DebugInputRecorderCheck: MonoBehaviour
     {
         [SerializeField] private PlayerCharacterAnimator animator;

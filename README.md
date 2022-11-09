@@ -1,3 +1,10 @@
+# Description
+### Requirements
+- Unity 2021.3.12 ([Release notes & download](https://unity3d.com/unity/whats-new/2021.3.12))
+- Visual Studio 2021 ([Link](https://visualstudio.microsoft.com/vs/)) or JB Rider ([Link](https://www.jetbrains.com/lp/dotnet-unity/))
+
+> This branch contains an unfinished raw prototype of what is described in below sections.
+
 ## Prototype
 As per a little research to figure out what will work best for the game (due to vague description), the first take was to implement a realtime battle, where the player needs to react to attack following markers on a timeline which indicates when the recorded actions occur.
 
